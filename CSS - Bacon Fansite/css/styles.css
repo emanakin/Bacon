@@ -1,0 +1,19 @@
+/* Tag selector */
+h1 {
+    color: red;
+
+}
+
+/* class selector */
+.bacon {
+    background-color: red;
+}
+
+.broccoli {
+    background-color: green;
+}
+
+/* ID selector */
+#heading {
+    color: blue;
+}
